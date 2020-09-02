@@ -1,0 +1,5 @@
+C:\Users\Amram\source\repos\Mobile_Hierarchy\Mobile_Hierarchy.Library\bin\Debug\Mobile_Hierarchy.Library.dll
+C:\Users\Amram\source\repos\Mobile_Hierarchy\Mobile_Hierarchy.Library\bin\Debug\Mobile_Hierarchy.Library.pdb
+C:\Users\Amram\source\repos\Mobile_Hierarchy\Mobile_Hierarchy.Library\obj\Debug\Mobile_Hierarchy.Library.csprojAssemblyReference.cache
+C:\Users\Amram\source\repos\Mobile_Hierarchy\Mobile_Hierarchy.Library\obj\Debug\Mobile_Hierarchy.Library.dll
+C:\Users\Amram\source\repos\Mobile_Hierarchy\Mobile_Hierarchy.Library\obj\Debug\Mobile_Hierarchy.Library.pdb
